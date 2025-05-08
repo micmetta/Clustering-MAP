@@ -1,4 +1,4 @@
-Algoritmo di **clustering** implementato in Java, sviluppato come progetto d'esame per il corso di Metodi Avanzati di Programmazione (MAP).
+Algoritmo di **clustering** implementato in Java, sviluppato come progetto d'esame per il corso di Metodi Avanzati di Programmazione (MAP) durante la laurea triennale.
 
 
 La **descrizione** dettagliata del progetto è disponibile nel file:  
